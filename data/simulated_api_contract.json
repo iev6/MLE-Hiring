@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Internal Merchant Risk API Response",
+  "description": "Contract for the mock API that candidates must implement and call. Returns internal risk flags and transaction summary per merchant.",
+  "type": "object",
+  "required": ["merchant_id", "internal_risk_flag", "transaction_summary"],
+  "properties": {
+    "merchant_id": {
+      "type": "string",
+      "description": "Must match merchant_id from merchants.csv (e.g. M001, M002)."
+    },
+    "internal_risk_flag": {
+      "type": "string",
+      "enum": ["low", "medium", "high"],
+      "description": "Internal underwriting risk tier from your system."
+    },
+    "transaction_summary": {
+      "type": "object",
+      "required": ["last_30d_volume", "last_30d_txn_count", "avg_ticket_size"],
+      "properties": {
+        "last_30d_volume": { "type": "number", "minimum": 0 },
+        "last_30d_txn_count": { "type": "integer", "minimum": 0 },
+        "avg_ticket_size": { "type": "number", "minimum": 0 }
+      }
+    },
+    "last_review_date": {
+      "type": "string",
+      "format": "date",
+      "description": "Optional; ISO date when merchant was last reviewed."
+    }
+  }
+}

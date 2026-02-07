@@ -1,0 +1,22 @@
+[
+  {
+    "merchant_id": "M001",
+    "internal_risk_flag": "low",
+    "transaction_summary": {
+      "last_30d_volume": 125000,
+      "last_30d_txn_count": 3420,
+      "avg_ticket_size": 36.55
+    },
+    "last_review_date": "2025-01-15"
+  },
+  {
+    "merchant_id": "M002",
+    "internal_risk_flag": "medium",
+    "transaction_summary": {
+      "last_30d_volume": 89000,
+      "last_30d_txn_count": 2100,
+      "avg_ticket_size": 42.38
+    },
+    "last_review_date": "2024-12-01"
+  }
+]

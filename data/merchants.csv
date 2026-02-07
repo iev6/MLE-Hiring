@@ -1,0 +1,51 @@
+merchant_id,name,country,registration_number,monthly_volume,dispute_count,transaction_count
+M001,GreenLeaf Retail Ltd,United Kingdom,09446239,125000,2,3420
+M002,MedSpa Wellness Co,United States,,89000,5,2100
+M003,TechGear Electronics,Germany,,210000,1,5800
+M004,Safe Streets Home Ltd,United Kingdom,SC304267,78000,0,1890
+M005,LaseyAway Beauty,United States,,45000,3,1200
+M006,Club Wyndham Travel,United Kingdom,01234567,320000,4,8900
+M007,Margaritaville Ventures,United States,,156000,2,4100
+M008,Removery Health Ltd,United Kingdom,NI012345,67000,1,2100
+M009,Urban Fit Gym,France,,34000,0,980
+M010,PetCare Plus,United Kingdom,08901234,52000,2,1650
+M011,StyleHub Fashion,Spain,,98000,6,3200
+M012,CleanEats Kitchen,United Kingdom,OC303456,28000,1,890
+M013,DriveAuto Motors,Italy,,187000,3,5200
+M014,BookNook Education Ltd,United Kingdom,12674479,41000,0,1340
+M015,Sunrise Solar Ltd,United Kingdom,LP123456,92000,2,2100
+M016,DataFlow Analytics,Netherlands,,76000,1,2400
+M017,HomeComfort HVAC,United Kingdom,09446240,55000,4,1890
+M018,FlavorTown Restaurants,Ireland,,44000,2,1250
+M019,NextGen Software Ltd,United Kingdom,SC304268,135000,0,3800
+M020,Artisan Crafts Co,Portugal,,22000,0,650
+M021,HealthFirst Pharmacy Ltd,United Kingdom,NI012346,88000,3,2650
+M022,CycleWorks Sports,Belgium,,31000,1,920
+M023,EcoPower Energy Ltd,United Kingdom,08901235,198000,5,5400
+M024,QuickFix Repairs,Austria,,27000,0,780
+M025,Style Studio Ltd,United Kingdom,OC303457,62000,2,1950
+M026,TravelWise Agency,Sweden,,115000,1,3200
+M027,FoodMart Grocers Ltd,United Kingdom,12674480,73000,3,2450
+M028,BuildRight Construction,Poland,,142000,4,4100
+M029,SmartHome Devices Ltd,United Kingdom,09446241,95000,0,2800
+M030,GardenGrow Ltd,United Kingdom,SC304269,38000,1,1100
+M031,OfficePro Supplies,Czech Republic,,58000,2,1690
+M032,ChildCare Plus Ltd,United Kingdom,NI012347,49000,0,1520
+M033,FitLife Studios,Denmark,,36000,1,1050
+M034,PrintPerfect Ltd,United Kingdom,08901236,71000,2,2180
+M035,RiverView Hotels,Norway,,165000,3,4600
+M036,SecureLock Security Ltd,United Kingdom,12674481,44000,1,1320
+M037,CoffeeHouse Chain,Finland,,29000,0,870
+M038,GreenEnergy Solutions Ltd,United Kingdom,OC303458,112000,4,3300
+M039,Fashion Forward,Hungary,,84000,2,2550
+M040,LegalEase Services Ltd,United Kingdom,09446242,67000,0,2100
+M041,SportZone Retail,Romania,,51000,3,1480
+M042,CloudTech Software Ltd,United Kingdom,SC304270,189000,2,5200
+M043,FreshBite Catering,Greece,,33000,1,990
+M044,PrintAndShip Ltd,United Kingdom,NI012348,76000,1,2340
+M045,DesignStudio Creative,Bulgaria,,42000,0,1280
+M046,WellnessFirst Ltd,United Kingdom,08901237,59000,3,1780
+M047,ElectroWorld Gadgets,Croatia,,97000,2,2900
+M048,TrustBuild Finance Ltd,United Kingdom,12674482,128000,0,3850
+M049,UrbanGardens Landscaping,Slovakia,,24000,0,720
+M050,DataSecure Ltd,United Kingdom,09446243,145000,2,4200

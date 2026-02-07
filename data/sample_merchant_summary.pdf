@@ -1,0 +1,44 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 802 >>
+stream
+BT /F1 12 Tf 50 700 Td
+(Merchant Underwriting Summary \(Sample\)) Tj T*
+() Tj T*
+(This document is a sample merchant terms and summary for use in the MLE take-home.) Tj T*
+(Process this PDF asynchronously and extract text for the collated view or report.) Tj T*
+() Tj T*
+(Section 1 - Merchant overview) Tj T*
+(Merchant: Sample Merchant Ltd. Country: United Kingdom. Registration: 09446239.) Tj T*
+(Monthly volume band: 50k-150k GBP.) Tj T*
+() Tj T*
+(Section 2 - Key terms \(abbreviated\)) Tj T*
+(Standard BNPL terms apply. Disputes handled per scheme rules.) Tj T*
+(Chargeback liability: merchant responsible for fraud and service disputes. Settlement: T+2.) Tj T*
+() Tj T*
+(Section 3 - Risk team notes) Tj T*
+(Internal flag: medium. Last review 2025-01-10. No sanctions hits. Company active.) Tj T*
+ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000290 00000 n 
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+1143
+%%EOF
